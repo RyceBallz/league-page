@@ -21,68 +21,66 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
   {
-    "roster": 1,
+    "managerID": "78911986687426560",
     "name": "Joey Nguyen",
     "photo": "/managers/joey-nguyen.jpg",
   },
   {
-    "roster": 2,
+    "managerID": "335996657181151232",
     "name": "Jason Koh",
     "photo": "/managers/jason-koh.jpg",
   },
   {
-    "roster": 3,
+    "managerID": "913651387081428992",
     "name": "Kirsten Nalan",
     "photo": "/managers/kirsten-nalan.jpg",
   },
   {
-    "roster": 4,
+    "managerID": "873470931794841600",
     "name": "David Vandergriff",
     "photo": "/managers/david-vandergriff.jpg",
   },
   {
-    "roster": 5,
+    "managerID": "209115607176581120",
     "name": "Scott Angus",
     "photo": "/managers/scott-angus.jpg",
   },
   {
-    "roster": 6,
+    "managerID": "1047980763171422208",
     "name": "Theresa Wood",
     "photo": "/managers/theresa-wood.jpg",
   },
   {
-    "roster": 7,
+    "managerID": "1001861895554510848",
     "name": "Jayson Schultz",
     "photo": "/managers/jayson-schultz.jpg",
   },
   {
-    "roster": 8,
+    "managerID": "724371858086019072",
     "name": "Joey Toncrey",
     "photo": "/managers/joey-toncrey.jpg",
   },
   {
-    "roster": 9,
+    "managerID": "1127642132778438656",
     "name": "Venus N",
     "photo": "/managers/venus-n.jpg",
   },
   {
-    "roster": 10,
+    "managerID": "1128401790266945536",
     "name": "Tara Nguyen",
     "photo": "/managers/tara-nguyen.jpg",
   },
   {
-    "roster": 11,
+    "managerID": "209759035535138816",
     "name": "Kiet Nguyen",
     "photo": "/managers/kiet-nguyen.jpg",
   },
   {
-    "roster": 12,
+    "managerID": "1339688747188363264",
     "name": "Matt Walters",
     "photo": "/managers/matt-walters.jpg",
   },
-],
-  ]
-  
+]
   
   /*   !!  !!  IMPORTANT  !!  !! */
   /*
