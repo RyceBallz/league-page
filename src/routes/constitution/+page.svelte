@@ -91,8 +91,8 @@
         <li>Kirsten Nalan & Josh Nalan (Co-Owners) — Purple Reign</li>
         <li>Venus N — all too well (griddyvrsn)</li>
         <li>Theresa Wood — Theresa is AWESOME</li>
-        <li>Matt Walters</li>
-        <li>Joey Toncrey</li>
+        <li>Matt Walters — Wa1teseFa1c0n</li>
+        <li>Joey Toncrey — TheTall1</li>
         <li>Jayson Schultz — Tiredofsecond</li>
         <li>Tara Nguyen — Not one of those WW 💙</li>
     </ul>
@@ -141,8 +141,8 @@
     <p>During the draft, each participant has 90 seconds to make a selection. Each team is required to draft a minimum of the following positions:</p>
     <ul>
         <li>QB: 1</li>
-        <li>RB: 3</li>
-        <li>WR: 3</li>
+        <li>RB: 2</li>
+        <li>WR: 2</li>
         <li>DEF: 1</li>
         <li>K: 1</li>
     </ul>
